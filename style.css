@@ -1,0 +1,18 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: Georgia, serif;
+  background: #fdfaf5;
+  color: #2c2c2c;
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+header {
+  border-bottom: 2px solid #c8a96e;
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
+}
+
+h1 { font-size: 2.2rem; color: #5a3e1b; }
