@@ -7,6 +7,7 @@ body {
   max-width: 860px;
   margin: 0 auto;
   padding: 2rem 1.5rem;
+  line-height: 1.44;
 }
 
 header {
@@ -70,6 +71,7 @@ h1 { font-size: 2.2rem; color: #5a3e1b; }
   color: #5a3e1b;
   border-bottom: 1px solid #e0d5c1;
   padding-bottom: 0.25rem;
+  margin-top: 1em;
   margin-bottom: 0.75rem;
 }
 
